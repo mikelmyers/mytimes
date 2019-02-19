@@ -1,0 +1,14 @@
+html {
+
+}
+.header {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+  width: 100%
+  display: inline-flex;
+}
+nav {
+  justify-content: flex-end;
+}
